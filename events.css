@@ -1,0 +1,28 @@
+body {
+  font-family: cursive;
+}
+.font-color{
+  color: blue;
+}
+.font-size{
+  font-size: 2em;
+}
+.addBorder{
+  border: solid black 2px;
+}
+.borderRound{
+  border-radius: 30px;
+}
+.bold{
+  font-size: 2em;
+}
+.article-sectionbold {
+  font-weight: bold;
+}
+.article-sectionitalics {
+  font-weight: bold;
+  font-style: italic;
+}
+button{
+  display: block;
+}
